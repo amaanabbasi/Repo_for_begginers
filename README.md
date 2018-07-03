@@ -1,3 +1,6 @@
+![logo](https://user-images.githubusercontent.com/30196830/42240648-99ffbb30-7f25-11e8-817b-0dcfca965c69.png)
+
+
 # Repo_for_begginers
 This is a Django webapp. The aim of this project is to help new web-developers to get familiarize with the git control system .
 If you know some basics of web development and want to contribute to open source projects.This repository is for you.
