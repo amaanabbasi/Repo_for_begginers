@@ -10,7 +10,7 @@ Even a small change will be accepted.
 
 # We expect you know basics
 * python 
-* django (get your hands dirty here)[https://docs.djangoproject.com/en/2.0/intro/tutorial01/]
+* django 
 * html/css 
 
 # Getting started
@@ -25,7 +25,7 @@ Even a small change will be accepted.
 ![2018-07-03](https://user-images.githubusercontent.com/30196830/42237704-33dcdab2-7f1c-11e8-8709-df8d9b85ddb9.png)
 
  # What's inside
-This is a simple poll app, refer to the link, it is very well explained in the documentation (Django-docs)[https://docs.djangoproject.com/en/2.0/intro/tutorial01/].
+This is a simple poll app, refer to the link, it is very well explained in the documentation [Django-docs](https://docs.djangoproject.com/en/2.0/intro/tutorial01/).
 
 
 # What's next
