@@ -1,10 +1,3 @@
-# You just need to know the basic of
-* python 
-* django ()[]
-* html/css 
-
-
-
 # Repo_for_begginers
 This is a Django webapp. The aim of this project is to help new web-developers to get familiarize with the git control system .
 If you know some basics of web development and want to contribute to open source projects.This repository is for you.
@@ -15,6 +8,11 @@ happens with us when we were getting started. Feel free to ask for problems. We 
 
 Even a small change will be accepted.
 
+# We expect you know basics
+* python 
+* django (get your hands dirty here)[https://docs.djangoproject.com/en/2.0/intro/tutorial01/]
+* html/css 
+
 # Getting started
 * download this repo.
 * The code is in src folder (it's a convention to put you main code in a src folder).
@@ -24,8 +22,10 @@ Even a small change will be accepted.
 * if you didn't got any error up until know you are good to go.
 * Now go to your web-browser and in the url-bar type *localhost:8000*.
 * you will see a page like:
- 
+![2018-07-03](https://user-images.githubusercontent.com/30196830/42237704-33dcdab2-7f1c-11e8-8709-df8d9b85ddb9.png)
 
+ # What's inside
+This is a simple poll app, refer to the link, it is very well explained in the documentation (Django-docs)[https://docs.djangoproject.com/en/2.0/intro/tutorial01/].
 
 
 # What's next
