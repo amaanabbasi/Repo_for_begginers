@@ -6,7 +6,7 @@ Open issues, Send pull requests. It's okay if you do it wrong for the first time
 You might be one of them who knows how to fix a issue but don't feel confident to contribute in open source. Don't worry, This 
 happens with us when we were getting started. Feel free to ask for problems. We will soon setup a discord server.
 
-Even a small change will be accepted.
+If you only know html/css/js, you still can contribute in this project. Even a small change will be accepted.
 
 # We expect you know basics
 * python 
@@ -29,7 +29,7 @@ This is a simple poll app, refer to the link, it is very well explained in the d
 
 
 # What's next
-* For know, Design a webpage for the website using only(html/js/css).
-
+* For know, Design a webpage for the website using (html/js/css).
+* help us improve the documentation.
 
 # Note: We are still working on this project, we will keep updating the information.
