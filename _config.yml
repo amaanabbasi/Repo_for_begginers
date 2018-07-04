@@ -1,1 +1,11 @@
+author: Mohd Abbasi
+email: amaanabbasi@gmail.com
+description:This project is for web devlopers who are in their intial phase of learning.This project will help them to gain 
+experience working with the git control system. A developer should feel free to contribute anything they want. Since, we are using
+django it's easy to integrate other apps into it. You may propose your app and we will extend it.
+
+# social 
+twitter_username: 
+github_username:  @pengoox
+show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-slate
