@@ -11,7 +11,7 @@ happens with us when we were getting started. Feel free to ask for problems. We 
 
 If you only know html/css/js, you still can contribute in this project. Even a small change will be accepted.
 
-# We expect you know basics
+# We expect you know basics of:
 * python 
 * django 
 * html/css 
