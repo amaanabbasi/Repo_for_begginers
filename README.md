@@ -28,7 +28,7 @@ If you only know html/css/js, you still can contribute in this project. Even a s
 
 ![2018-07-04](https://user-images.githubusercontent.com/30196830/42276833-d7e78774-7fb2-11e8-8ab1-3cb50e8b9ffa.png)
 
-* In the url bar you can type in localhost:8000/polls, that redirect you to the poll app.
+* In the url bar you can type in *localhost:8000/polls* , that redirect you to the poll app.
 
  # What's inside
 This is a simple poll app, refer to the link, it is very well explained in the documentation [Django-docs](https://docs.djangoproject.com/en/2.0/intro/tutorial01/).
