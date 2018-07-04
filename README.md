@@ -25,7 +25,10 @@ If you only know html/css/js, you still can contribute in this project. Even a s
 * If you didn't got any error up until know you are good to go.
 * Now go to your web-browser and in the url-bar type *localhost:8000*.
 * You will see a page like:
-![2018-07-03](https://user-images.githubusercontent.com/30196830/42237704-33dcdab2-7f1c-11e8-8709-df8d9b85ddb9.png)
+
+![2018-07-04](https://user-images.githubusercontent.com/30196830/42276833-d7e78774-7fb2-11e8-8ab1-3cb50e8b9ffa.png)
+
+* In the url bar you can type in localhost:8000/polls, that redirect you to the poll app.
 
  # What's inside
 This is a simple poll app, refer to the link, it is very well explained in the documentation [Django-docs](https://docs.djangoproject.com/en/2.0/intro/tutorial01/).
