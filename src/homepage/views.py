@@ -6,4 +6,4 @@ def index(request):
 	#
 	#
 	#
-	return  HttpResponse("hello my friend")
+	return  HttpResponse("hello World")
