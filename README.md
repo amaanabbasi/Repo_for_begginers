@@ -21,7 +21,10 @@ If you only know html/css/js, you still can contribute in this project. Even a s
 * The code is in src folder (it's a convention to put you main code in a src folder).
 * We expect that you know python and Django(basics, even if you just have followed a tutorial on youtube that is enough.)
 * On mac open up terminal, or command prompt if you are on windows.
-* Type `python manage.py runserver`
+* `pip install -r requirements.txt`.
+*  cd into src folder.
+* `python manage.py migrate`.
+*  Finally, `python manage.py runserver`.
 * If you didn't got any error up until know you are good to go.
 * Now go to your web-browser and in the url-bar type *localhost:8000*.
 * You will see a page like:
