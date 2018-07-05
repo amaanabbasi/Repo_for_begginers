@@ -16,3 +16,7 @@ As django is written in python, it makes it easy to build web applications with 
 * click [here](https://www.python.org/downloads/) to download python.
 * After you have successfully installed python and pip, open up your command prompt or terminal.
 * And type `pip install django` , this will install django on your computer.
+
+* After its done, type 'python', and then import django, if you see nothing like in the image down below you have successfully installed
+django on your computer.
+![capture](https://user-images.githubusercontent.com/30196830/42344552-51d71538-80ba-11e8-84f1-c7e79e4ee650.PNG)
