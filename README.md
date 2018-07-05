@@ -2,8 +2,7 @@
 
 
 # Repo_for_begginers
-This is a Django webapp. The aim of this project is to help new web-developers to get familiarize with the git control system .
-If you know some basics of web development and want to contribute to open source projects.This repository is for you.
+This is a Django webapp. The aim of this project is to help new web-developers learn django and to help them get better at contributing in open-source. If you know some basics of web development and want to contribute to open source projects.This repository is for you.
 
 Open issues, Send pull requests. It's okay if you do it wrong for the first time we will guide you how to contribute properly.
 You might be one of them who knows how to fix a issue but don't feel confident to contribute in open source. Don't worry, This 
