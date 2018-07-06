@@ -11,7 +11,7 @@ As django is written in python, it makes it easy to build web applications with 
 
 # How to install django
 
-* before installing django you should have python and pip installed.
+* before installing django you should have python installed.
 * click [here](https://pypi.org/project/pip/) to download pip.
 * click [here](https://www.python.org/downloads/) to download python.
 * After you have successfully installed python and pip, open up your command prompt or terminal.
