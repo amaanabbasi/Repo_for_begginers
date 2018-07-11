@@ -2,8 +2,7 @@
 
 
 # Repo_for_begginers
-This is a Django webapp. The aim of this project is to help new web-developers to get familiarize with the git control system .
-If you know some basics of web development and want to contribute to open source projects.This repository is for you.
+This is a Django webapp. The aim of this project is to help new web-developers learn django and to help them get better at contributing in open-source. If you know some basics of web development and want to contribute to open source projects.This repository is for you.
 
 Open issues, Send pull requests. It's okay if you do it wrong for the first time we will guide you how to contribute properly.
 You might be one of them who knows how to fix a issue but don't feel confident to contribute in open source. Don't worry, This 
@@ -21,7 +20,10 @@ If you only know html/css/js, you still can contribute in this project. Even a s
 * The code is in src folder (it's a convention to put you main code in a src folder).
 * We expect that you know python and Django(basics, even if you just have followed a tutorial on youtube that is enough.)
 * On mac open up terminal, or command prompt if you are on windows.
-* Type `python manage.py runserver`
+* `pip install -r requirements.txt`.
+*  cd into src folder.
+* `python manage.py migrate`.
+*  Finally, `python manage.py runserver`.
 * If you didn't got any error up until know you are good to go.
 * Now go to your web-browser and in the url-bar type *localhost:8000*.
 * You will see a page like:
@@ -33,7 +35,9 @@ If you only know html/css/js, you still can contribute in this project. Even a s
  # What's inside
 This is a simple poll app, refer to the link, it is very well explained in the documentation [Django-docs](https://docs.djangoproject.com/en/2.0/intro/tutorial01/).
 
+
 # learning Resources:
+* How to install [django](https://pengoox.github.io/Repo_for_begginers/).
 * Latest django tutorial on youtube [video-tutorial](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW).
 
 # What's next
