@@ -44,4 +44,8 @@ This is a simple poll app, refer to the link, it is very well explained in the d
 * For know, Design a webpage for the website using (html/js/css).
 * Help us improve the documentation.
 
+# Tasks
+
+- [] Hompage
+
 # Note: We are still working on this project, we will keep updating the information.
