@@ -46,6 +46,6 @@ This is a simple poll app, refer to the link, it is very well explained in the d
 
 # Tasks
 
-- [] Hompage
+- [ ] Hompage
 
 # Note: We are still working on this project, we will keep updating the information.
