@@ -28,7 +28,7 @@ This guide will walk you through on how to install Django on your machine.
 
 # What is pip ?
 
-**pip** is a package manager, it allows to download and install packages easily on your computer. An alternative of pip is **conda**.
+**pip** is a package management system used to install and manage software packages written in Python.
 
  In the installation above, the version is explicitly mentioned (i.e 2.0.5). If you didn't mentioned the version, pip will automatically download the latest version of the package.
  This repository works on Django version 2.0.5 that's why I want you to install this version. 
