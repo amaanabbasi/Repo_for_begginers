@@ -2,4 +2,6 @@
 db.sqlite3
 __pycache__
 .DS_Store
-
+.venv36
+migrations
+.vscode
