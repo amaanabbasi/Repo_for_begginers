@@ -35,11 +35,6 @@ If you only know html/css/js, you still can contribute in this project. Even a s
  # What's inside
 This is a simple poll app, refer to the link, it is very well explained in the documentation [Django-docs](https://docs.djangoproject.com/en/2.0/intro/tutorial01/).
 
-
-# learning Resources:
-* How to install [django](https://pengoox.github.io/Repo_for_begginers/).
-* Latest django tutorial on youtube [video-tutorial](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW).
-
 # Tutorials
 
 - [x] How to Add Social Login to Django ->[✏️]()
