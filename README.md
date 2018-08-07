@@ -40,10 +40,10 @@ This is a simple poll app, refer to the link, it is very well explained in the d
 * How to install [django](https://pengoox.github.io/Repo_for_begginers/).
 * Latest django tutorial on youtube [video-tutorial](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW).
 
-# What's next
-* For know, Design a webpage for the website using (html/js/css).
-* Help us improve the documentation.
+# Tutorials
 
+- [x] How to Add Social Login to Django. [here]()
+ 
 # Tasks
 
 - [ ] Hompage
