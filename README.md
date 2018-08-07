@@ -26,9 +26,7 @@ If you only know html/css/js, you still can contribute in this project. Even a s
 *  Finally, `python manage.py runserver`.
 * If you didn't got any error up until know you are good to go.
 * Now go to your web-browser and in the url-bar type *localhost:8000*.
-* You will see a page like:
 
-![2018-07-04](https://user-images.githubusercontent.com/30196830/42276833-d7e78774-7fb2-11e8-8ab1-3cb50e8b9ffa.png)
 
 * In the url bar you can type in *localhost:8000/polls* , that redirect you to the poll app.
 
