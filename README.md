@@ -26,24 +26,18 @@ If you only know html/css/js, you still can contribute in this project. Even a s
 *  Finally, `python manage.py runserver`.
 * If you didn't got any error up until know you are good to go.
 * Now go to your web-browser and in the url-bar type *localhost:8000*.
-* You will see a page like:
 
-![2018-07-04](https://user-images.githubusercontent.com/30196830/42276833-d7e78774-7fb2-11e8-8ab1-3cb50e8b9ffa.png)
 
 * In the url bar you can type in *localhost:8000/polls* , that redirect you to the poll app.
 
  # What's inside
 This is a simple poll app, refer to the link, it is very well explained in the documentation [Django-docs](https://docs.djangoproject.com/en/2.0/intro/tutorial01/).
 
+# Tutorials
 
-# learning Resources:
-* How to install [django](https://pengoox.github.io/Repo_for_begginers/).
-* Latest django tutorial on youtube [video-tutorial](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW).
-
-# What's next
-* For know, Design a webpage for the website using (html/js/css).
-* Help us improve the documentation.
-
+- [x] How to Add Social Login to Django ->[✏️]()
+- [ ] How to Built a Rest api, using Django Rest Framework (DRF) ->[✏️]()
+ 
 # Tasks
 
 - [ ] Hompage
