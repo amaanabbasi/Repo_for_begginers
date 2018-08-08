@@ -35,7 +35,7 @@ This is a simple poll app, refer to the link, it is very well explained in the d
 
 # Tutorials
 
-- [x] How to Add Social Login to Django ->[✏️]()
+- [x] **Auth**, Login system in Django ->[✏️]()
 - [ ] How to Built a Rest api, using Django Rest Framework (DRF) ->[✏️]()
  
 # Tasks
