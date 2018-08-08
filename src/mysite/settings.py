@@ -139,6 +139,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-LOGIN_REDIRECT_URL = 'insta:home'
+LOGIN_REDIRECT_URL = 'insta:userdetail'
+LOGOUT_REDIRECT_URL = 'index'
 LOGIN_URL = 'login'
 LOGOUT_URL = 'logout'

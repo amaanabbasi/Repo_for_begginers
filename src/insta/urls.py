@@ -3,7 +3,7 @@ from . import views
 
 app_name = "insta"
 urlpatterns = [
-    url(r'user/',views.home, name='home'),
+    url(r'user/',views.userdetail, name='userdetail'),
 ]
 
 

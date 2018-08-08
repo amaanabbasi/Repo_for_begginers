@@ -49,10 +49,11 @@
     </style>
     </head>
 <body>
+    <font face="verdana" size="4">
     <div class="container">
             <nav class="nav">
                     <a class="nav-link active" href="/">Home</a>
-                    <a class="nav-link disabled" href="#"></a>
+                    <a class="nav-link disabled" href="{% url 'polls:index' %}">polls</a>
                     {% if user.is_authenticated %}
                     {{user.username}}
                     <a class="nav-link right" href="{% url 'logout' %}">Logout</a>
@@ -64,5 +65,6 @@
         {% block body %}
         {% endblock body %}
     </div>
+  </font>  
 </body>
 </html>

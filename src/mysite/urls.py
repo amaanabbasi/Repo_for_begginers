@@ -24,7 +24,7 @@ urlpatterns = [
     path('polls/', include('polls.urls')),
     path('admin/', admin.site.urls),
     path('login/', auth_views.login, name='login'),
-    path('logout/', auth_views.logout, {'next_page': 'index'}, name='logout'),
+    path('logout/', auth_views.logout, name='logout'),
     path('oauth/', include('social_django.urls', namespace='social')),
 ]
 
