@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'mypage',
     'polls.apps.PollsConfig',
     'insta',
+    'courses',
+    'todo',
     
 ]
 

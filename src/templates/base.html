@@ -54,6 +54,7 @@
             <nav class="nav">
                     <a class="nav-link active" href="/">Home</a>
                     <a class="nav-link disabled" href="{% url 'polls:index' %}">polls</a>
+                    <a class="nav-link" href="{% url 'courses:courses-list' %}">Courses</a>
                     {% if user.is_authenticated %}
                     {{user.username}}
                     <a class="nav-link right" href="{% url 'logout' %}">Logout</a>

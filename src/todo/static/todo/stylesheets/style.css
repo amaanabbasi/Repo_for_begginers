@@ -1,0 +1,39 @@
+html {
+    background-color: #eee;
+}
+
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background: transparent;
+    min-height: 100vh;
+}
+
+a {
+    color: #00B7FF;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+.container {
+    max-width: 400px;
+}
+
+.panel {
+    border: 1px solid rgba(0,0,0,0.2);
+    box-shadow: 0 2px 3px rgba(0,0,0,0.3);
+}
+
+button.delTodo {
+    padding: 0;
+    visibility: hidden;
+}
+button.delTodo:hover span {
+    color: rgba(255,20,0,0.9);
+}
+li.list-group-item:hover button.delTodo {
+    visibility: visible;
+}
